@@ -1,7 +1,7 @@
 {
-  "name": "js-cli-template",
+  "name": "fastmc",
   "version": "1.0.0",
-  "description": "This project is a template for making cli in javascript with nodejs, nexe, rollup and ink.",
+  "description": "A minecraft launcher in your terminal.",
   "main": "dist/cli.mjs",
   "type": "module",
   "scripts": {
@@ -12,10 +12,11 @@
   "keywords": [
     "ink",
     "cli",
-    "template"
+    "minecraft",
+    "launcher"
   ],
   "author": "HerozDotExe",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "ink": "^4.4.1",
     "ink-big-text": "^2.0.0",
